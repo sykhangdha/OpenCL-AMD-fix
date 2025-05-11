@@ -1,3 +1,5 @@
+[Download Fix Here](https://github.com/sykhangdha/OpenCL-AMD-fix/releases/tag/Release1)
+
 # OpenCL.dll Installer for AMD Drivers
 
 ## Overview
@@ -78,7 +80,5 @@ This script is licensed under the [MIT License](LICENSE). You are free to use, m
   - This error occurs if the `OpenCL.dll` file is in use by another system process. The script will automatically schedule the replacement on the next reboot. After rebooting, the new DLL will be copied over.
   
 - **Manual Installation:**
-  - If the script fails to download or install `OpenCL.dll`, you
+  - If the script fails to download or install `OpenCL.dll` from the github here
 
-
-[Download Fix Here](https://github.com/sykhangdha/OpenCL-AMD-fix/releases/tag/Release1)
