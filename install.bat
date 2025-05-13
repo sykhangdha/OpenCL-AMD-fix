@@ -23,7 +23,7 @@ echo This script will install OpenCL.dll to System32.
 echo The DLL comes from:
 echo   %URL%
 echo
-echo It is based on the official OpenCL runtime from:
+echo It uses the official OpenCL runtime from:
 echo   https://github.com/KhronosGroup/OpenCL-SDK/releases/tag/v2024.10.24
 echo ================================
 echo.
